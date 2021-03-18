@@ -1,4 +1,4 @@
-# Colorly
-Have Fun
-try to find GREEN Color
-https://hubilya.github.io/colorly.github.io/
+# Clrly
+Check it out
+try to find Yellow Color
+https://hubilya.github.io/Clrly.github.io/
